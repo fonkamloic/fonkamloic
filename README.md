@@ -1,9 +1,9 @@
-# Hello everyone! I'm Loïc Fonakm - [College Plan][website]
+# Hello everyone! I'm Loïc Fonkam - [College Plan][website]
 
 ## Software Engineer and a Lifelong Learner!
 
 - 📱 I'm currently working at College Plan as Mobile developer.
-- 🕵🏾‍♂️ I very passionate in building secure products with a strong background in secure coding pactices.
+- 🕵🏾‍♂️ I very passionate in building secure products with a strong background in secure coding practices.
 - 📖 Love to learn all things about technology.
 - 👷🏾‍♂️ Passion to build insanely great product that can solve people's problems at scale.
 - ⚙ Open Source Believer and Contributor, I am interested in building software using secure coding technique and AI.
