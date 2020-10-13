@@ -11,7 +11,7 @@
 ## Languages & Frameworks:
 
 - Dart (Flutter/Android & IOS)<img align="left" alt="flutter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/flutter.svg"/>
-- Javascript/TypeScript (Web/node.js)<img align="left" alt="javascript" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/javascript.svg"/>
+- Javascript/TypeScript (Web/node.js)<img align="left" alt="javascript" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.11.0/icons/typescript.svg"/>
 - C/Bash <img align="left" alt="swift" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.11.0/icons/gnubash.svg"/>
 - Python (Flask)<img align="left" alt="python" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/python.svg"/>
 - Docker/CI-CD<img align="left" alt="android" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.11.0/icons/docker.svg"/>
