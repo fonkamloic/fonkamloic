@@ -2,7 +2,7 @@
 
 ## Software Engineer and a Lifelong Learner!
 
-- 📱 I'm currently working at College Plan as Mobile developer.
+- 📱 I'm currently working at Tenflr as Mobile developer.
 - 🕵🏾‍♂️ I very passionate in building secure products with a strong background in secure coding practices.
 - 📖 Love to learn all things about technology.
 - 👷🏾‍♂️ Passion to build insanely great product that can solve people's problems at scale.
