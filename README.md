@@ -1,4 +1,4 @@
-# Hello everyone! I'm Loïc Fonkam - [College Plan][website]
+# Hello everyone! I'm Loïc Fonkam - [Tenflr][website]
 
 ## Software Engineer and a Lifelong Learner!
 
