@@ -1,9 +1,10 @@
-# Hello everyone! I'm Loïc Fonkam - [Tenflr][website]
+# Hello everyone! I'm Loïc Fonkam - [Mboa Digital][work-website]
 
 ## Software Engineer and a Lifelong Learner!
 
-- 📱 I'm currently working at Tenflr as Mobile developer.
-- 🕵🏾‍♂️ I very passionate in building secure products with a strong background in secure coding practices.
+- 🕵🏾‍♂️ I'm currently working at Mboa Digital as a Digital Consultant.
+- 📱 System architect at [Tenflr][website]
+- 👷🏾‍♂️ I very passionate in building secure products with a strong background in secure coding practices.
 - 📖 Love to learn all things about technology.
 - 👷🏾‍♂️ Passion to build insanely great product that can solve people's problems at scale.
 - ⚙ Open Source Believer and Contributor, I am interested in building software using secure coding technique and AI.
@@ -12,9 +13,12 @@
 
 - Dart (Flutter/Android & IOS)<img align="left" alt="flutter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/flutter.svg"/>
 - Javascript/TypeScript (Web/node.js)<img align="left" alt="javascript" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.11.0/icons/typescript.svg"/>
+- Spring Boot <img align="left" alt="springboot" src="https://img.icons8.com/color/48/000000/spring-logo.png"/>
+- Vue <img align="left" alt="vue" src="https://img.icons8.com/color/48/000000/vue-js.png"/>
 - C/Bash <img align="left" alt="swift" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.11.0/icons/gnubash.svg"/>
 - Python (Flask)<img align="left" alt="python" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/python.svg"/>
 - Docker/CI-CD<img align="left" alt="android" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.11.0/icons/docker.svg"/>
+
 
 ## Connect
 
@@ -24,6 +28,7 @@
 - [StartupSchool<img align="left" alt="startupSchool | Instagram" width="22px" src="https://proptechzone.com/wp-content/uploads/2019/10/y_combinator-5f35cf76-ce77-4bfb-a744-160e63f0abf8-1.png"/>][startupschool]
 
 [website]: https://tenflr.com
+[work-website]: https://mboadigital.tech
 
 <!--[youtube]: https://youtube.com/c/XcodingwithAlfian -->
 
