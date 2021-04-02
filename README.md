@@ -1,8 +1,7 @@
-# Hello everyone! I'm Loïc Fonkam - [Mboa Digital][work-website]
+# Hello everyone! I'm Loïc Fonkam 
 
 ## Software Engineer and a Lifelong Learner!
 
-- 🕵🏾‍♂️ I'm currently working at Mboa Digital as a Digital Consultant.
 - 📱 System architect at [Tenflr][website]
 - 👷🏾‍♂️ I very passionate in building secure products with a strong background in secure coding practices.
 - 📖 Love to learn all things about technology.
@@ -28,7 +27,7 @@
 - [StartupSchool<img align="left" alt="startupSchool | Instagram" width="22px" src="https://proptechzone.com/wp-content/uploads/2019/10/y_combinator-5f35cf76-ce77-4bfb-a744-160e63f0abf8-1.png"/>][startupschool]
 
 [website]: https://tenflr.com
-[work-website]: https://mboadigital.tech
+
 
 <!--[youtube]: https://youtube.com/c/XcodingwithAlfian -->
 
