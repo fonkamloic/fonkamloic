@@ -2,11 +2,11 @@
 
 ## Software Engineer and a Lifelong Learner!
 
-- 📱 System architect at [Tenflr][website]
-- 👷🏾‍♂️ I very passionate in building secure products with a strong background in secure coding practices.
-- 📖 Love to learn all things about technology.
-- 👷🏾‍♂️ Passion to build insanely great product that can solve people's problems at scale.
-- ⚙ Open Source Believer and Contributor, I am interested in building software using secure coding technique and AI.
+- 📱 I am the system architect at [Tenflr][website]
+- 👷🏾‍♂️ I am very passionate about building secure products with a strong background in secure coding practices.
+- 📖 I love to learn all things about technology.
+- 👷🏾‍♂️ I have a passion for building insanely great products that can solve people's problems at scale.
+- ⚙ I am an open Source Believer and Contributor; I am also interested in building software using secure coding techniques.
 
 ## Languages & Frameworks:
 
