@@ -4,7 +4,7 @@
 
 - 📱 System architect at [Tenflr][website]
 - 👷🏾‍♂️ Passionate about building secure products with a strong background in secure coding practices.
-- 📖 Learn all things about technology.
+- 📖  Learns all things about technology.
 - 👷🏾‍♂️ Passion for building insanely great products that can solve people's problems at scale.
 - ⚙ Open Source Believer and Contributor; I am also interested in building software using secure coding techniques.
 
