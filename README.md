@@ -2,7 +2,8 @@
 
 ## Software Engineer and a Lifelong Learner!
 
-- 📱 System architect at [Tenflr][website]
+- 📱 Flutter Developer at [LyteLoop][website_lyte]
+- 📱 System architect at [LyteLoop][website]
 - 👷🏾‍♂️ Passionate about building secure products with a strong background in secure coding practices.
 - 📖  Learns all things about technology.
 - 👷🏾‍♂️ Passion for building insanely great products that can solve people's problems at scale.
@@ -27,6 +28,7 @@
 - [StartupSchool<img align="left" alt="startupSchool | Instagram" width="22px" src="https://proptechzone.com/wp-content/uploads/2019/10/y_combinator-5f35cf76-ce77-4bfb-a744-160e63f0abf8-1.png"/>][startupschool]
 
 [website]: https://tenflr.com
+[website_lyte]: https://www.lyteloop.com
 
 
 <!--[youtube]: https://youtube.com/c/XcodingwithAlfian -->
