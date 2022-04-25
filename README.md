@@ -2,7 +2,6 @@
 
 ## Software Engineer and a Lifelong Learner!
 
-- 💙 Flutter Developer at [LyteLoop][website_lyte]
 - 📱 System architect at [Tenflr][website]
 - 👷🏾‍♂️ Passionate about building secure products with a strong background in secure coding practices.
 - 📖  Learns all things about technology.
