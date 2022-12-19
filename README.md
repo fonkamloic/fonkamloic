@@ -21,7 +21,7 @@
 
 ## Connect
 
-- [Tenflr<img align="left" alt="fonkamloic | Website" width="22px" src="https://avatars.githubusercontent.com/u/116918175?s=88&v=4"/>][website]
+- [FlutterPlaza<img align="left" alt="fonkamloic | Website" width="22px" src="https://avatars.githubusercontent.com/u/116918175?s=88&v=4"/>][website]
 - [Twitter<img align="left" alt="fonkamloic | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg"/>][twitter]
 - [LinkedIn<img align="left" alt="fonkamloic | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"/>][linkedin]
 - [StartupSchool<img align="left" alt="startupSchool | Instagram" width="22px" src="https://proptechzone.com/wp-content/uploads/2019/10/y_combinator-5f35cf76-ce77-4bfb-a744-160e63f0abf8-1.png"/>][startupschool]
