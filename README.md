@@ -2,7 +2,7 @@
 
 ## Software Engineer and a Lifelong Learner!
 
-- 📱 Flutter developer and content creator at [Savana, Inc][website]
+- 📱 Flutter developer at [Savana, Inc][website]
 - 👷🏾‍♂️ Passionate about building secure products with a strong background in secure coding practices.
 - 📖  Learns all things about technology.
 - 👷🏾‍♂️ Passion for building insanely great products that can solve people's problems at scale.
